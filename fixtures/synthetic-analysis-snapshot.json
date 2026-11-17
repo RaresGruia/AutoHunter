@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "mode": "DEMO",
+    "source": "OLX",
+    "location": "Deva",
+    "radiusKm": 100,
+    "searchedAt": "2026-10-25T00:00:00.000Z",
+    "durationMs": 0,
+    "localFetched": 34,
+    "eligible": 22,
+    "analyzed": 22,
+    "verified": 5,
+    "verificationFailed": 0,
+    "notRequested": 17,
+    "detailRequests": 5,
+    "dataConflicts": 0,
+    "cosmeticWarnings": 1,
+    "mechanicalOrAccidentWarnings": 0,
+    "legalWarnings": 1,
+    "totalResults": 22,
+    "returnedResults": 10,
+    "limit": 10,
+    "requestMetrics": {
+      "localNetworkRequests": 0,
+      "localCacheHits": 0,
+      "marketCacheHits": 0,
+      "marketCacheMisses": 5,
+      "marketRequestDedupHits": 17,
+      "freshMarketRequests": 0,
+      "detailRequests": 0,
+      "staleCacheUsed": 0,
+      "totalOlxRequests": 0,
+      "withoutCacheEstimatedRequests": 16
+    },
+    "warnings": [
+      "SYNTHETIC DEMO: OLX-shaped parser fixture; no real OLX listing data or publisher requests."
+    ],
+    "synthetic": true
+  },
+  "results": [
+    {
+      "id": "demo-duster-good",
+      "title": "Dacia Duster 1.5 dCi 4x4 - DEMO",
+      "car": {
+        "make": "Dacia",
+        "model": "Duster",
+        "year": 2021,
+        "mileageKm": 123000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1461 cm3",
+        "drivetrain": "4x4",
+        "engineCapacityCc": 1461,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 9500,
+        "estimatedMarketEur": 11500,
+        "discountPercent": 17.4,
+        "potentialSavingEur": 2000,
+        "comparableCount": 9,
+        "confidence": 81
+      },
+      "scores": {
+        "deal": 40,
+        "flipPotential": 54,
+        "overallRisk": 28,
+        "carQuality": 76,
+        "opportunity": 53
+      },
+      "classification": "GREAT_DEAL",
+      "qualityReasons": [
+        "An relativ recent.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală a fost citită și verificată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4.",
+        "Acte / import / înmatriculare de verificat."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 25,
+        "legal": 10,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "17.4% sub mediana eșantionului",
+        "~2000 EUR diferență față de mediană, înainte de costuri",
+        "9 comparabile",
+        "4x4 declarat în anunț",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Caroserie cu imperfecțiuni estetice",
+        "Neînmatriculată; pot exista costuri suplimentare de înmatriculare",
+        "Afirmațiile vânzătorului nu sunt verificate"
+      ],
+      "sellerClaims": [
+        "km reali"
+      ],
+      "sellerType": "private",
+      "registrationStatus": "UNREGISTERED",
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "VERIFIED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": "/demo-images/cars/demo-duster-good/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-duster-good/01.jpg",
+        "/demo-images/cars/demo-duster-good/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-duster-good/01.jpg",
+          "title": "2023060102 Dacia Duster.jpg",
+          "author": "Joachim Lutz",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023060102_Dacia_Duster.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/cars/demo-duster-good/02.jpg",
+          "title": "Dacia Duster 184141.jpg",
+          "author": "Trop86",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dacia_Duster_184141.jpg",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ],
+      "url": "https://example.invalid/auto/demo-duster-good"
+    },
+    {
+      "id": "demo-Megane-0",
+      "title": "Renault Megane 2017 1461 cm3",
+      "car": {
+        "make": "Renault",
+        "model": "Megane",
+        "year": 2017,
+        "mileageKm": 150000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1461 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1461,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 6200,
+        "estimatedMarketEur": 7700,
+        "discountPercent": 19.5,
+        "potentialSavingEur": 1500,
+        "comparableCount": 5,
+        "confidence": 62
+      },
+      "scores": {
+        "deal": 40,
+        "flipPotential": 36,
+        "overallRisk": 0,
+        "carQuality": 78,
+        "opportunity": 51
+      },
+      "classification": "GREAT_DEAL",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală a fost citită și verificată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "19.5% sub mediana eșantionului",
+        "~1500 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "VERIFIED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": "/demo-images/cars/demo-Megane-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Megane-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Megane-0/01.jpg",
+          "title": "2017 Renault Megane Dynamique NAV DCi 1.5.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Renault_Megane_Dynamique_NAV_DCi_1.5.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ],
+      "url": "https://example.invalid/auto/demo-Megane-0"
+    },
+    {
+      "id": "demo-Focus-0",
+      "title": "Ford Focus 2016 1560 cm3",
+      "car": {
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2016,
+        "mileageKm": 170000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1560 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1560,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 5400,
+        "estimatedMarketEur": 6800,
+        "discountPercent": 20.6,
+        "potentialSavingEur": 1400,
+        "comparableCount": 7,
+        "confidence": 61
+      },
+      "scores": {
+        "deal": 40,
+        "flipPotential": 39,
+        "overallRisk": 0,
+        "carQuality": 76,
+        "opportunity": 51
+      },
+      "classification": "GREAT_DEAL",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală a fost citită și verificată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 75
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "20.6% sub mediana eșantionului",
+        "~1400 EUR diferență față de mediană, înainte de costuri",
+        "7 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "VERIFIED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": "/demo-images/cars/demo-Focus-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Focus-0/01.jpg",
+        "/demo-images/cars/demo-Focus-0/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Focus-0/01.jpg",
+          "title": "2016 Ford Focus Titanium EcoBoost 1.0 Front.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_Titanium_EcoBoost_1.0_Front.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/cars/demo-Focus-0/02.jpg",
+          "title": "2016 Ford Focus Titanium EcoBoost 1.0 Rear.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_Titanium_EcoBoost_1.0_Rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ],
+      "url": "https://example.invalid/auto/demo-Focus-0"
+    },
+    {
+      "id": "demo-Golf-0",
+      "title": "Volkswagen Golf 2015 1598 cm3",
+      "car": {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2015,
+        "mileageKm": 180000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1598 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1598,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 6500,
+        "estimatedMarketEur": 8000,
+        "discountPercent": 18.8,
+        "potentialSavingEur": 1500,
+        "comparableCount": 5,
+        "confidence": 63
+      },
+      "scores": {
+        "deal": 40,
+        "flipPotential": 36,
+        "overallRisk": 0,
+        "carQuality": 75,
+        "opportunity": 50
+      },
+      "classification": "GREAT_DEAL",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală a fost citită și verificată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "18.8% sub mediana eșantionului",
+        "~1500 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "VERIFIED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": "/demo-images/cars/demo-Golf-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Golf-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Golf-0/01.jpg",
+          "title": "2015 Volkswagen Golf, Front Right, 08-05-2020.jpg",
+          "author": "SsmIntrigue",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Volkswagen_Golf,_Front_Right,_08-05-2020.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ],
+      "url": "https://example.invalid/auto/demo-Golf-0"
+    },
+    {
+      "id": "demo-unknown-location",
+      "title": "Ford Focus 2016 1560 cm3",
+      "car": {
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2016,
+        "mileageKm": 173000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1560 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1560,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 5500,
+        "estimatedMarketEur": 6800,
+        "discountPercent": 19.1,
+        "potentialSavingEur": 1300,
+        "comparableCount": 7,
+        "confidence": 46
+      },
+      "scores": {
+        "deal": 26,
+        "flipPotential": 28,
+        "overallRisk": 0,
+        "carQuality": 76,
+        "opportunity": 41
+      },
+      "classification": "GREAT_DEAL",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală a fost citită și verificată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 75
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "19.1% sub mediana eșantionului",
+        "~1300 EUR diferență față de mediană, înainte de costuri",
+        "7 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Coordonate lipsă: distanța și raza nu pot fi verificate."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Localitate nespecificata",
+        "distanceKm": null
+      },
+      "verification": {
+        "status": "VERIFIED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-unknown-location"
+    },
+    {
+      "id": "demo-Golf-1",
+      "title": "Volkswagen Golf 2016 1598 cm3",
+      "car": {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2016,
+        "mileageKm": 181500,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1598 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1598,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 7700,
+        "estimatedMarketEur": 8000,
+        "discountPercent": 3.8,
+        "potentialSavingEur": 300,
+        "comparableCount": 5,
+        "confidence": 44
+      },
+      "scores": {
+        "deal": 9,
+        "flipPotential": 12,
+        "overallRisk": 0,
+        "carQuality": 69,
+        "opportunity": 28
+      },
+      "classification": "FAIR",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală nu este confirmată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "3.8% sub mediana eșantionului",
+        "~300 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Pagina individuală nu a fost verificată: buget de 5 pagini."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "NOT_REQUESTED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-Golf-1"
+    },
+    {
+      "id": "demo-Megane-1",
+      "title": "Renault Megane 2018 1461 cm3",
+      "car": {
+        "make": "Renault",
+        "model": "Megane",
+        "year": 2018,
+        "mileageKm": 151500,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1461 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1461,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 7400,
+        "estimatedMarketEur": 7700,
+        "discountPercent": 3.9,
+        "potentialSavingEur": 300,
+        "comparableCount": 5,
+        "confidence": 43
+      },
+      "scores": {
+        "deal": 8,
+        "flipPotential": 12,
+        "overallRisk": 0,
+        "carQuality": 73,
+        "opportunity": 28
+      },
+      "classification": "INTERESTING_CAR",
+      "qualityReasons": [
+        "An relativ recent.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală nu este confirmată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "3.9% sub mediana eșantionului",
+        "~300 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Pagina individuală nu a fost verificată: buget de 5 pagini."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "NOT_REQUESTED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-Megane-1"
+    },
+    {
+      "id": "demo-Megane-2",
+      "title": "Renault Megane 2017 1461 cm3",
+      "car": {
+        "make": "Renault",
+        "model": "Megane",
+        "year": 2017,
+        "mileageKm": 153000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1461 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1461,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 7600,
+        "estimatedMarketEur": 7700,
+        "discountPercent": 1.3,
+        "potentialSavingEur": 100,
+        "comparableCount": 5,
+        "confidence": 42
+      },
+      "scores": {
+        "deal": 5,
+        "flipPotential": 9,
+        "overallRisk": 0,
+        "carQuality": 72,
+        "opportunity": 26
+      },
+      "classification": "INTERESTING_CAR",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală nu este confirmată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "1.3% sub mediana eșantionului",
+        "~100 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Pagina individuală nu a fost verificată: buget de 5 pagini."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "NOT_REQUESTED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-Megane-2"
+    },
+    {
+      "id": "demo-Focus-1",
+      "title": "Ford Focus 2017 1560 cm3",
+      "car": {
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2017,
+        "mileageKm": 171500,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1560 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1560,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 6600,
+        "estimatedMarketEur": 6800,
+        "discountPercent": 2.9,
+        "potentialSavingEur": 200,
+        "comparableCount": 7,
+        "confidence": 41
+      },
+      "scores": {
+        "deal": 6,
+        "flipPotential": 12,
+        "overallRisk": 0,
+        "carQuality": 70,
+        "opportunity": 26
+      },
+      "classification": "INTERESTING_CAR",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală nu este confirmată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "2.9% sub mediana eșantionului",
+        "~200 EUR diferență față de mediană, înainte de costuri",
+        "7 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Pagina individuală nu a fost verificată: buget de 5 pagini."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "NOT_REQUESTED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-Focus-1"
+    },
+    {
+      "id": "demo-Golf-2",
+      "title": "Volkswagen Golf 2015 1598 cm3",
+      "car": {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2015,
+        "mileageKm": 183000,
+        "fuel": "Diesel",
+        "transmission": "Manuala",
+        "engine": "1598 cm3",
+        "drivetrain": "4x2",
+        "engineCapacityCc": 1598,
+        "horsepower": null,
+        "bodyType": null
+      },
+      "price": {
+        "askingEur": 7900,
+        "estimatedMarketEur": 8000,
+        "discountPercent": 1.3,
+        "potentialSavingEur": 100,
+        "comparableCount": 5,
+        "confidence": 42
+      },
+      "scores": {
+        "deal": 5,
+        "flipPotential": 9,
+        "overallRisk": 0,
+        "carQuality": 68,
+        "opportunity": 25
+      },
+      "classification": "FAIR",
+      "qualityReasons": [
+        "Vârsta reduce scorul de calitate.",
+        "Kilometraj rezonabil pentru vârstă, conform anunțului.",
+        "Nu sunt detectate contradicții serioase în date.",
+        "Fără indicii mecanice în text; nu este inspecție tehnică.",
+        "Pagina individuală nu este confirmată.",
+        "Configurație documentată: 4/6 câmpuri; fără preferință pentru automată sau 4x4."
+      ],
+      "marketData": {
+        "freshness": "FRESH",
+        "fetchedAt": null,
+        "matchQuality": "EXACT",
+        "comparableSimilarityAverage": 74
+      },
+      "risks": {
+        "mechanical": 0,
+        "accident": 0,
+        "cosmetic": 0,
+        "legal": 0,
+        "price": 0,
+        "data": 0
+      },
+      "positiveReasons": [
+        "1.3% sub mediana eșantionului",
+        "~100 EUR diferență față de mediană, înainte de costuri",
+        "5 comparabile",
+        "Nu au fost detectate probleme mecanice în text; starea nu este confirmată"
+      ],
+      "warnings": [
+        "Pagina individuală nu a fost verificată: buget de 5 pagini."
+      ],
+      "sellerClaims": [],
+      "sellerType": "private",
+      "registrationStatus": null,
+      "location": {
+        "text": "Hunedoara, Hunedoara",
+        "distanceKm": 14.274248104397161
+      },
+      "verification": {
+        "status": "NOT_REQUESTED",
+        "dataQualityScore": 100,
+        "dataConflicts": [],
+        "dataWarnings": [],
+        "seriousConflict": false,
+        "priceAmbiguity": false
+      },
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "url": "https://example.invalid/auto/demo-Golf-2"
+    }
+  ],
+  "needsManualVerification": [],
+  "excludedAfterVerification": []
+}

@@ -1,0 +1,3618 @@
+{
+  "cars": {
+    "demo-duster-good": {
+      "imageUrl": "/demo-images/cars/demo-duster-good/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-duster-good/01.jpg",
+        "/demo-images/cars/demo-duster-good/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-duster-good/01.jpg",
+          "title": "2023060102 Dacia Duster.jpg",
+          "author": "Joachim Lutz",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023060102_Dacia_Duster.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/cars/demo-duster-good/02.jpg",
+          "title": "Dacia Duster 184141.jpg",
+          "author": "Trop86",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dacia_Duster_184141.jpg",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-duster-comp-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-comp-8": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-damaged": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-duster-engine": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Focus-0": {
+      "imageUrl": "/demo-images/cars/demo-Focus-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Focus-0/01.jpg",
+        "/demo-images/cars/demo-Focus-0/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Focus-0/01.jpg",
+          "title": "2016 Ford Focus Titanium EcoBoost 1.0 Front.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_Titanium_EcoBoost_1.0_Front.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/cars/demo-Focus-0/02.jpg",
+          "title": "2016 Ford Focus Titanium EcoBoost 1.0 Rear.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Ford_Focus_Titanium_EcoBoost_1.0_Rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-Focus-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Focus-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Focus-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Focus-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Focus-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Golf-0": {
+      "imageUrl": "/demo-images/cars/demo-Golf-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Golf-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Golf-0/01.jpg",
+          "title": "2015 Volkswagen Golf, Front Right, 08-05-2020.jpg",
+          "author": "SsmIntrigue",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Volkswagen_Golf,_Front_Right,_08-05-2020.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-Golf-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Golf-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Golf-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Golf-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Golf-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Megane-0": {
+      "imageUrl": "/demo-images/cars/demo-Megane-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-Megane-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-Megane-0/01.jpg",
+          "title": "2017 Renault Megane Dynamique NAV DCi 1.5.jpg",
+          "author": "Vauxford",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Renault_Megane_Dynamique_NAV_DCi_1.5.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-Megane-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Megane-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Megane-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Megane-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-Megane-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-unknown-location": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-far-away": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-no-comparables": {
+      "imageUrl": "/demo-images/cars/demo-no-comparables/01.jpg",
+      "imageUrls": [
+        "/demo-images/cars/demo-no-comparables/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/cars/demo-no-comparables/01.jpg",
+          "title": "Toyota Yaris 2018.jpg",
+          "author": "Edoderoo",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Yaris_2018.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-mild-risk": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    }
+  },
+  "tractors": {
+    "demo-tractor-0": {
+      "imageUrl": "/demo-images/tractors/demo-tractor-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/tractors/demo-tractor-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-0/01.jpg",
+          "title": "Universal 650 Tractors.jpg",
+          "author": "Simiprof",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Universal_650_Tractors.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-tractor-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-8": {
+      "imageUrl": "/demo-images/tractors/demo-tractor-8/01.jpg",
+      "imageUrls": [
+        "/demo-images/tractors/demo-tractor-8/01.jpg",
+        "/demo-images/tractors/demo-tractor-8/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-8/01.jpg",
+          "title": "Zetor 7245.jpg",
+          "author": "Original uploader and author was Míla at cs.wikipedia",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zetor_7245.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-8/02.jpg",
+          "title": "Zetor 7245 in Komňa.jpg",
+          "author": "RomanM82",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zetor_7245_in_Kom%C5%88a.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-tractor-9": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-10": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-11": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-12": {
+      "imageUrl": "/demo-images/tractors/demo-tractor-12/01.jpg",
+      "imageUrls": [
+        "/demo-images/tractors/demo-tractor-12/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-12/01.jpg",
+          "title": "Belarus 820.jpg",
+          "author": "Dgolnik",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belarus_820.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-tractor-13": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-14": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-15": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-16": {
+      "imageUrl": "/demo-images/tractors/demo-tractor-16/01.jpg",
+      "imageUrls": [
+        "/demo-images/tractors/demo-tractor-16/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-16/01.jpg",
+          "title": "John Deere 6400.jpg",
+          "author": "Stephan Trebs (user Zoidberg)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Deere_6400.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-tractor-17": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-18": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-19": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-20": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-21": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-22": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-23": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-24": {
+      "imageUrl": "/demo-images/tractors/demo-tractor-24/01.jpg",
+      "imageUrls": [
+        "/demo-images/tractors/demo-tractor-24/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tractors/demo-tractor-24/01.jpg",
+          "title": "Massey Ferguson 390.jpg",
+          "author": "Joost J. Bakker from IJmuiden",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_390.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "demo-tractor-25": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-26": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-27": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-28": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-29": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-30": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-31": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-32": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-33": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-34": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-35": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-36": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-37": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-38": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-39": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-40": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-41": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-42": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "demo-tractor-43": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-8": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-9": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-10": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-11": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-12": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-13": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-14": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-15": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-16": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-17": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-18": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-19": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-20": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-21": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-22": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-23": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-24": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-25": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-26": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-27": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-28": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-29": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-30": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-31": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-32": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-33": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-34": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-35": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-36": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-37": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-38": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-39": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-40": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-41": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-42": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-43": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-44": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-45": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-46": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-47": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-48": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-49": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-50": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-51": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-52": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-53": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-54": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-55": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-56": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-57": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-58": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-59": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-60": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-61": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-62": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-63": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-64": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-65": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-66": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-67": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-68": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-69": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-70": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "market-tractor-71": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    }
+  },
+  "tools": {
+    "tool-local-0-0": {
+      "imageUrl": "/demo-images/tools/tool-local-0-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/tools/tool-local-0-0/01.jpg",
+        "/demo-images/tools/tool-local-0-0/02.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tools/tool-local-0-0/01.jpg",
+          "title": "Makita DGA504.jpg",
+          "author": "Widar23",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makita_DGA504.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        },
+        {
+          "imageUrl": "/demo-images/tools/tool-local-0-0/02.jpg",
+          "title": "Makita DGA504 free.jpg",
+          "author": "Widar23, Bukk",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makita_DGA504_free.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "tool-local-0-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-0-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-0-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-1-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-1-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-1-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-1-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-2-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-2-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-2-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-2-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-3-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-3-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-3-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-3-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-4-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-4-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-4-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-4-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-5-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-5-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-5-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-5-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-6-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-6-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-6-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-6-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-7-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-7-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-7-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-7-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-8-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-8-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-8-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-8-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-9-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-9-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-9-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-9-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-10-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-10-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-10-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-10-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-11-0": {
+      "imageUrl": "/demo-images/tools/tool-local-11-0/01.jpg",
+      "imageUrls": [
+        "/demo-images/tools/tool-local-11-0/01.jpg"
+      ],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "LICENSED",
+        "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json."
+      },
+      "imagePresentation": "REPRESENTATIVE_MODEL",
+      "imageAttributions": [
+        {
+          "imageUrl": "/demo-images/tools/tool-local-11-0/01.jpg",
+          "title": "Kärcher-Hochdruckreiniger.jpg",
+          "author": "Firma Kärcher",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%A4rcher-Hochdruckreiniger.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+        }
+      ]
+    },
+    "tool-local-11-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-11-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-11-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-12-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-12-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-12-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-12-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-13-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-13-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-13-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-13-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-14-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-14-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-14-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-14-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-15-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-15-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-15-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-15-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-16-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-16-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-16-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-16-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-17-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-17-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-17-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-local-17-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-battery": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-mechanical": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-electrical": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-cosmetic": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-authenticity": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-unknown": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-incomplete": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-conflict": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-like-new": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-parts": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-worn": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-edge-new": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-0-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-1-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-2-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-3-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-4-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-5-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-6-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-7-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-8-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-9-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-10-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-11-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-12-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-13-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-14-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-15-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-16-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-0": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-1": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-2": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-3": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-4": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-5": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-6": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    },
+    "tool-market-17-7": {
+      "imageUrl": null,
+      "imageUrls": [],
+      "thumbnailUrl": null,
+      "imageRights": {
+        "status": "UNKNOWN",
+        "evidence": null
+      }
+    }
+  }
+}

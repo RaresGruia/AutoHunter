@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "id": "manual-approved",
+      "name": "Importul meu autorizat",
+      "kind": "MANUAL_IMPORT",
+      "categories": ["cars", "tractors", "tools", "equipment"],
+      "file": "../fixtures/import-template.json",
+      "enabled": false,
+      "permission": { "dataUse": false, "imageDisplay": false, "reference": null }
+    },
+    {
+      "id": "supplier-feed",
+      "name": "Feed JSON livrat de furnizor",
+      "kind": "AUTHORIZED_FEED",
+      "categories": ["cars", "tractors", "tools", "equipment"],
+      "file": "../fixtures/import-template.json",
+      "enabled": false,
+      "permission": { "dataUse": false, "imageDisplay": false, "reference": null }
+    }
+  ]
+}

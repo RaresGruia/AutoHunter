@@ -1,0 +1,37 @@
+{
+  "name": "autohunter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Vehicle Listing Search & Comparison — TypeScript, Fastify and Expo portfolio project",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "api": "tsx src/api/server.ts",
+    "search": "tsx src/cli/search.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "demo:images": "tsx scripts/sync-demo-images.mjs",
+    "web:export": "npm --prefix mobile run export:web",
+    "test:browser": "node scripts/portfolio-browser-check.mjs",
+    "test:live": "node scripts/live-browser-check.mjs",
+    "check:public": "node scripts/check-public-files.mjs",
+    "format:check": "prettier --check mobile/App.tsx mobile/src/live src/live src/demo src/models/ListingUrl.ts src/discovery/normalize.ts src/api/routes/live.ts scripts/portfolio-browser-check.mjs scripts/check-public-files.mjs docs/ARCHITECTURE.md docs/INTERVIEW.md README.md API.md mobile/README.md src/api/server.ts mobile/src/apiBaseUrl.ts tests/portfolioDemo.test.ts mobile/tests/portfolioDemo.test.ts scripts/live-browser-check.mjs .github/workflows/ci.yml src/models/HistoricalAnalysis.ts tests/historical.test.ts mobile/tests/historical.test.ts docs/RECOVERED_ANALYSIS.md",
+    "format": "prettier --write mobile/App.tsx mobile/src/live src/live src/demo src/models/ListingUrl.ts src/discovery/normalize.ts src/api/routes/live.ts scripts/portfolio-browser-check.mjs scripts/check-public-files.mjs docs/ARCHITECTURE.md docs/INTERVIEW.md README.md API.md mobile/README.md src/api/server.ts mobile/src/apiBaseUrl.ts tests/portfolioDemo.test.ts mobile/tests/portfolioDemo.test.ts scripts/live-browser-check.mjs .github/workflows/ci.yml src/models/HistoricalAnalysis.ts tests/historical.test.ts mobile/tests/historical.test.ts docs/RECOVERED_ANALYSIS.md"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.3.0",
+    "cheerio": "1.1.2",
+    "fastify": "^5.12.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "playwright": "1.62.1",
+    "prettier": "3.6.2",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.2"
+  }
+}

@@ -1,0 +1,35 @@
+import type { ListingImages } from './ListingImages.js';
+export interface CarListing extends ListingImages {
+  id: string;
+  source: string;
+  url: string;
+  title: string;
+  make: string | null;
+  model: string | null;
+  generation?: string | null;
+  variant?: string | null;
+  marketDataFreshness?: 'FRESH' | 'CACHED' | 'STALE';
+  marketFetchedAt?: string;
+  identityConfidence?: number;
+  year: number | null;
+  mileageKm: number | null;
+  priceEur: number;
+  fuel: string | null;
+  transmission: string | null;
+  engine: string | null;
+  engineCapacityCc?: number | null;
+  horsepower?: number | null;
+  bodyType?: string | null;
+  registrationText?: string | null;
+  registrationStatus?: 'REGISTERED_RO' | 'UNREGISTERED' | 'IMPORT' | 'UNKNOWN';
+  drivetrain?: string | null;
+  locationText: string;
+  latitude?: number | null;
+  longitude?: number | null;
+  description: string;
+  conditionText?: string | null;
+  sellerType?: string | null;
+  publishedAt?: string | null;
+  updatedAt?: string | null;
+  rawData?: unknown;
+}

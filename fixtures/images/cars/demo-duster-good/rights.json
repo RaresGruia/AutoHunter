@@ -1,0 +1,25 @@
+{
+  "status": "LICENSED",
+  "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json.",
+  "imagePresentation": "REPRESENTATIVE_MODEL",
+  "imageAttributions": [
+    {
+      "imageUrl": "/demo-images/cars/demo-duster-good/01.jpg",
+      "title": "2023060102 Dacia Duster.jpg",
+      "author": "Joachim Lutz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023060102_Dacia_Duster.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+    },
+    {
+      "imageUrl": "/demo-images/cars/demo-duster-good/02.jpg",
+      "title": "Dacia Duster 184141.jpg",
+      "author": "Trop86",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dacia_Duster_184141.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+    }
+  ]
+}

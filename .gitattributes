@@ -1,0 +1,2 @@
+# Preserve the synthetic analysis fixture byte-for-byte on every checkout.
+fixtures/synthetic-analysis-snapshot.json text eol=lf

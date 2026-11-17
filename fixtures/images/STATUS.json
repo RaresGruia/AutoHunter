@@ -1,0 +1,242 @@
+{
+  "listings": 378,
+  "photos": 16,
+  "displayableListings": 12,
+  "starterReady": 12,
+  "starterTotal": 15,
+  "manifestWasStale": false,
+  "starter": [
+    {
+      "category": "cars",
+      "kind": "local",
+      "id": "demo-duster-good",
+      "title": "Dacia Duster 1.5 dCi 4x4 - DEMO",
+      "directory": "cars/demo-duster-good",
+      "files": [
+        "01.jpg",
+        "02.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 2,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "cars",
+      "kind": "local",
+      "id": "demo-Focus-0",
+      "title": "Ford Focus 2016 1560 cm3",
+      "directory": "cars/demo-Focus-0",
+      "files": [
+        "01.jpg",
+        "02.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 2,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "cars",
+      "kind": "local",
+      "id": "demo-Golf-0",
+      "title": "Volkswagen Golf 2015 1598 cm3",
+      "directory": "cars/demo-Golf-0",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "cars",
+      "kind": "local",
+      "id": "demo-Megane-0",
+      "title": "Renault Megane 2017 1461 cm3",
+      "directory": "cars/demo-Megane-0",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "cars",
+      "kind": "local",
+      "id": "demo-no-comparables",
+      "title": "Toyota Yaris 2018 1496 cm3",
+      "directory": "cars/demo-no-comparables",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tractors",
+      "kind": "local",
+      "id": "demo-tractor-0",
+      "title": "UTB 650 — DEMO sintetic",
+      "directory": "tractors/demo-tractor-0",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tractors",
+      "kind": "local",
+      "id": "demo-tractor-8",
+      "title": "Zetor 7245 — DEMO sintetic",
+      "directory": "tractors/demo-tractor-8",
+      "files": [
+        "01.jpg",
+        "02.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 2,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tractors",
+      "kind": "local",
+      "id": "demo-tractor-12",
+      "title": "Belarus 820 — DEMO sintetic",
+      "directory": "tractors/demo-tractor-12",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tractors",
+      "kind": "local",
+      "id": "demo-tractor-16",
+      "title": "John Deere 6400 — DEMO sintetic",
+      "directory": "tractors/demo-tractor-16",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tractors",
+      "kind": "local",
+      "id": "demo-tractor-24",
+      "title": "Massey Ferguson 390 — DEMO sintetic",
+      "directory": "tractors/demo-tractor-24",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tools",
+      "kind": "local",
+      "id": "tool-local-0-0",
+      "title": "Makita DGA504 — DEMO",
+      "directory": "tools/tool-local-0-0",
+      "files": [
+        "01.jpg",
+        "02.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 2,
+      "displayable": true,
+      "issues": []
+    },
+    {
+      "category": "tools",
+      "kind": "local",
+      "id": "tool-local-1-0",
+      "title": "Makita DDF484 — DEMO",
+      "directory": "tools/tool-local-1-0",
+      "files": [
+        "rights.json"
+      ],
+      "photos": 0,
+      "displayable": false,
+      "issues": [
+        "MISSING_PHOTOS",
+        "UNCONFIRMED_RIGHTS"
+      ]
+    },
+    {
+      "category": "tools",
+      "kind": "local",
+      "id": "tool-local-9-0",
+      "title": "Stihl MS 261 — DEMO",
+      "directory": "tools/tool-local-9-0",
+      "files": [
+        "rights.json"
+      ],
+      "photos": 0,
+      "displayable": false,
+      "issues": [
+        "MISSING_PHOTOS",
+        "UNCONFIRMED_RIGHTS"
+      ]
+    },
+    {
+      "category": "tools",
+      "kind": "local",
+      "id": "tool-local-10-0",
+      "title": "Husqvarna 135 Mark II — DEMO",
+      "directory": "tools/tool-local-10-0",
+      "files": [
+        "rights.json"
+      ],
+      "photos": 0,
+      "displayable": false,
+      "issues": [
+        "MISSING_PHOTOS",
+        "UNCONFIRMED_RIGHTS"
+      ]
+    },
+    {
+      "category": "tools",
+      "kind": "local",
+      "id": "tool-local-11-0",
+      "title": "Karcher K5 — DEMO",
+      "directory": "tools/tool-local-11-0",
+      "files": [
+        "01.jpg",
+        "SOURCE.md",
+        "rights.json"
+      ],
+      "photos": 1,
+      "displayable": true,
+      "issues": []
+    }
+  ]
+}

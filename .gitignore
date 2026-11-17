@@ -1,0 +1,39 @@
+node_modules/
+dist/
+olx-probe.html
+*.log
+data/cache/
+
+# Local configuration and regenerable development output (all packages).
+.env
+.env.*
+!.env.example
+.expo/
+.cache/
+coverage/
+*.tsbuildinfo
+validation/*-runtime.json
+/mobile/dist-demo-images/
+/mobile/dist-android/
+/validation/demo-images-2026-10-25/*.png
+/validation/multisource-2026-10-25/*.png
+/config/*.local.json
+/data/imports/
+/validation/photo-repair-2026-10-26/*.png
+/validation/live-2026-10-26/*.png
+/validation/product-2026-10-26/*.png
+
+# Local execution history is not a portfolio artifact; curated screenshots live in docs/.
+/validation/
+/docs/archive/
+playwright-report/
+test-results/
+
+# Real publisher captures and old local validation artifacts must stay private.
+/API_LIVE_RESPONSE.json
+/API_LIVE_HEALTH.json
+/detail-probe.html
+/truth-*-probe.html
+/truth-live-examples.json
+/*LIVE_VALIDATION*
+/SEARCH_JOB_LIVE_*.json

@@ -1,0 +1,16 @@
+{
+  "status": "LICENSED",
+  "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json.",
+  "imagePresentation": "REPRESENTATIVE_MODEL",
+  "imageAttributions": [
+    {
+      "imageUrl": "/demo-images/tractors/demo-tractor-24/01.jpg",
+      "title": "Massey Ferguson 390.jpg",
+      "author": "Joost J. Bakker from IJmuiden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_390.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+    }
+  ]
+}

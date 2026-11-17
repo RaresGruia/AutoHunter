@@ -1,0 +1,25 @@
+{
+  "status": "LICENSED",
+  "evidence": "Licențele individuale au fost verificate pe paginile Wikimedia Commons la 2026-10-25; vezi SOURCE.md și SOURCES.json.",
+  "imagePresentation": "REPRESENTATIVE_MODEL",
+  "imageAttributions": [
+    {
+      "imageUrl": "/demo-images/tractors/demo-tractor-8/01.jpg",
+      "title": "Zetor 7245.jpg",
+      "author": "Original uploader and author was Míla at cs.wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zetor_7245.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+    },
+    {
+      "imageUrl": "/demo-images/tractors/demo-tractor-8/02.jpg",
+      "title": "Zetor 7245 in Komňa.jpg",
+      "author": "RomanM82",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zetor_7245_in_Kom%C5%88a.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Versiune redimensionată furnizată de Wikimedia Commons; fără editări suplimentare în AutoHunter."
+    }
+  ]
+}

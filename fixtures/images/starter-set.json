@@ -1,0 +1,17 @@
+[
+  {"category":"cars","id":"demo-duster-good"},
+  {"category":"cars","id":"demo-Focus-0"},
+  {"category":"cars","id":"demo-Golf-0"},
+  {"category":"cars","id":"demo-Megane-0"},
+  {"category":"cars","id":"demo-no-comparables"},
+  {"category":"tractors","id":"demo-tractor-0"},
+  {"category":"tractors","id":"demo-tractor-8"},
+  {"category":"tractors","id":"demo-tractor-12"},
+  {"category":"tractors","id":"demo-tractor-16"},
+  {"category":"tractors","id":"demo-tractor-24"},
+  {"category":"tools","id":"tool-local-0-0"},
+  {"category":"tools","id":"tool-local-1-0"},
+  {"category":"tools","id":"tool-local-9-0"},
+  {"category":"tools","id":"tool-local-10-0"},
+  {"category":"tools","id":"tool-local-11-0"}
+]
